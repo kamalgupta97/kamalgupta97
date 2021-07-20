@@ -5,14 +5,14 @@
 
 
 
-- 🔭 I’m currently working on ...MERN Stack Project
-- 🌱 I’m currently learning ...ExpressJs
-- 👯 I’m looking to collaborate on ...MERN Stack
-- 🤔 I’m looking for help with ...Express
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Website](https://kamalgupta97.github.io/kamal_portfolio/)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am half finish
+- 🔭 I’m currently working on MERN Stack Project
+- 🌱 I’m currently learning ExpressJs
+- 👯 I’m looking to collaborate on MERN Stack
+- 🤔 I’m looking for help with ExpressJs
+- 💬 Ask me about Anything
+- 📫 How to reach me: Kamaldro97@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am half finish
 
 
 ### languages and tools 
