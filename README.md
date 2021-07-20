@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on MERN Stack
 - 🤔 I’m looking for help with ExpressJs
 - 💬 Ask me about Anything
-- 📫 How to reach me: Kamaldro97@gmail.com
+- 📫 How to reach me: [Kamalgupta97](https://www.linkedin.com/in/kamalgupta97/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 
