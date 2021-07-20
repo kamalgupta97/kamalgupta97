@@ -14,8 +14,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 
-<img height="100"></img>
- 
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
 
 <h1 align="center">Languages & Tools</h1>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -34,4 +34,4 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
+
