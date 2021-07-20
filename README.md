@@ -10,4 +10,6 @@
 - 📫 How to reach me: ...[Website](https://kamalgupta97.github.io/kamal_portfolio/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 -->
