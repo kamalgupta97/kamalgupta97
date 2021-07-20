@@ -16,7 +16,18 @@
 
 
 **languages and tools:**  
-
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="N/A"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/stripe.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="N/A"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="N/A"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="N/A"/>
+ <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="N/A"/>
 
 
 
