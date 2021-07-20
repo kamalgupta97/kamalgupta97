@@ -18,11 +18,11 @@
 
 
 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
-<h1 align="center">Languages & Tools</h1>
+ <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
+<h1 align="left">Languages & Tools</h1>
 
 
-
+<div>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code> 
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></code> 
@@ -30,7 +30,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></code> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></code>
-<div>
+ </div>
+ <div>
  
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></code> 
