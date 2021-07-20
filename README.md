@@ -1,5 +1,11 @@
-### Hi is what I am working on 👋
 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Mangeshbk.Mangeshbk) -->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mangeshbk&label=Profile%20views&color=0e75b6&style=flat" alt="MangeshLandge" /> </p> -->
+
+<a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a>
+
+### Hi is what I am working on 👋
 
 
 - 🔭 I’m currently working on ...MERN Stack Project
@@ -14,15 +20,7 @@
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamalgupta97)
