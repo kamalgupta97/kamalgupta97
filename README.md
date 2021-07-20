@@ -31,7 +31,7 @@
 
 <div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamalgupta97)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
 
 
 
