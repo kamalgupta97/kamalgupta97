@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="100" width="500" />
+<img align="right" height="50" width="500" />
 
 - 🔭 I’m currently working on MERN Stack Project
 - 🌱 I’m currently learning ExpressJs
