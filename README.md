@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Here is what I am working on 👋 </h1>
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  />
 
 
 
