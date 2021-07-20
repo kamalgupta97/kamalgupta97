@@ -1,7 +1,6 @@
 
 
-<a href="#"><img width="50%" height="auto" align="right" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height="175px"/></a>
-
+![App Screenshot](https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif)
 ### Hi is what I am working on 👋
 
 
