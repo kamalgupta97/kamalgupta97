@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/f3583/enterprise-eth.png" height="175px"/></a>
+<a href="#"><img width="100%" height="200px" src="https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/f3583/enterprise-eth.png" height="175px"/></a>
 
 ### Hi is what I am working on 👋
 
