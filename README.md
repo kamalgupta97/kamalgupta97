@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 
-<img height="320" width="500" />
+<img align="right" height="320" width="500" />
 
 
 <h1 align="center">Languages & Tools</h1>
