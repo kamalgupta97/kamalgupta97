@@ -2,9 +2,11 @@
 
 <h1 align="center"> Here is what I am working on 👋 </h1>
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
 
 
+
+
+<img align="right" height="100" width="500" />
 
 - 🔭 I’m currently working on MERN Stack Project
 - 🌱 I’m currently learning ExpressJs
@@ -15,9 +17,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 
-<img align="right" height="320" width="500" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
 
-
+ <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
 <h1 align="center">Languages & Tools</h1>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></code> 
@@ -34,5 +36,5 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code> 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
+
 
