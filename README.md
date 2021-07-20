@@ -1,6 +1,7 @@
 
 
-
+###
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="500" height="320" />
 ### Hi is what I am working on 👋
 
 
@@ -12,11 +13,10 @@
 - 📫 How to reach me: ...[Website](https://kamalgupta97.github.io/kamal_portfolio/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish
-###
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="500" height="320" />
+
 
 ### languages and tools 
-<div align="right">
+
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="N/A"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="N/A"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="N/A"/>
@@ -30,7 +30,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="N/A"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="N/A"/>
 
-<div>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
 
