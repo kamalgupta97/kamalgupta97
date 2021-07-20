@@ -16,6 +16,7 @@
 
 
 **languages and tools:**  
+<div align="right">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="N/A"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="N/A"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="N/A"/>
@@ -29,7 +30,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="N/A"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="N/A"/>
 
-
+<div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamalgupta97)
 
