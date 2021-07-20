@@ -12,12 +12,13 @@
 - 👯 I’m looking to collaborate on MERN Stack
 - 🤔 I’m looking for help with ExpressJs
 - 💬 Ask me about Anything
+- - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am half finish
 - 📫 How to reach me: <p align="left">
 <a href="https://linkedin.com/in/kamalgupta97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nrjrwt" height="30" width="40" /></a>
 
 </p>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am half finish
+
 
 
 
