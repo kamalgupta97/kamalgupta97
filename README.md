@@ -4,7 +4,7 @@
 
 
 
-
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
 
 <img align="right" height="50" width="500" />
 
@@ -17,7 +17,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
+
 
  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
 <h1 align="center">Languages & Tools</h1>
