@@ -2,7 +2,7 @@
 
 <h1 align="center"> Here is what I am working on 👋 </h1>
 
-
+<div>
  
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
 
@@ -15,6 +15,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
 </p>
+
+</div>
 <hr/>
 
 
