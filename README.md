@@ -50,7 +50,8 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></code>
  </div> -->
-
+ 
+<div align="center" >  </div>
 ### 🛠  Technologies
 
 <br/>
