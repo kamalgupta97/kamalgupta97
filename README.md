@@ -51,7 +51,9 @@
 <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></code>
  </div> -->
  
-<div align="center" >  </div>
+<div align="center" >
+	<img height="100"/>
+</div>
 ### 🛠  Technologies
 
 <br/>
