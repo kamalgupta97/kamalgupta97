@@ -14,7 +14,7 @@
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
-</p>
+
 
 </div>
 <hr/>
