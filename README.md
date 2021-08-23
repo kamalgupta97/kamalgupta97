@@ -1,5 +1,5 @@
 
-<div height="400">
+
 <h1 align="center"> Here is what I am working on 👋 </h1>
 
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I am half finish
 
 
-</div>
+
 <hr/>
 
 
