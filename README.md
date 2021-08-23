@@ -54,6 +54,7 @@
 ### 🛠  Technologies
 
 <br/>
+<hr/>
  
 <div align="center" >
   
