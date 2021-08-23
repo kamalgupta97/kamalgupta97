@@ -54,3 +54,24 @@
 
 
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&theme=gotham" alt="kamalgupta" />
+  
+  
+  
+  
+### ⚙️ &nbsp;GitHub Analytics
+ <div >
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalgupta97&show_icons=true&locale=en&layout=compact&theme=radical" alt="kamal" width="380" /></p>
+
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&locale=en&theme=tokyonight" alt="kamal" width="380" /></p>
+</div>
+
+<br/><br/><br/><br/>
+
+<br/><br/><br/><br/>
+<a href="https://github.com/kamalgupta97/github-readme-activity-graph"><img alt="Kamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kamalgupta97&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/><br/>
+<h1></h1>
+
+
+
