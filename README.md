@@ -106,5 +106,5 @@ Connect with Me 🤝🏻 &nbsp;
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35"> </a>
  </div>
 
-![Bhargavi](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 
