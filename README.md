@@ -53,7 +53,7 @@
   
 ### ⚙️ &nbsp;GitHub Analytics
  <div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalgupta97&show_icons=true&locale=en&layout=compact&theme=radical" alt="kamal" width="380" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalgupta97&show_icons=true&locale=en&layout=compact&theme=radical" target="_blank" alt="kamal" width="380" /></p>
 
 <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=kamalgupta97&show_icons=true&locale=en&theme=tokyonight" alt="kamal" width="380" /></p>
 </div>
