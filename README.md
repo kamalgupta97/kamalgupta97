@@ -7,10 +7,8 @@
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  height="320" width="500" />
 
 
-- 🔭 I’m currently working on MERN Stack Project
-- 🌱 I’m currently learning ExpressJs
-- 👯 I’m looking to collaborate on MERN Stack
-- 🤔 I’m looking for help with ExpressJs
+- 🔭 I’m currently working on a Conversational Commerce project.
+- 🌱 Contributing to ReactJs library and other ReactJs projects.
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finish
